@@ -1,2 +1,2 @@
 # GAN
-執行start.jupyter
+執行start.ipynb
